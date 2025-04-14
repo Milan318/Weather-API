@@ -35,4 +35,4 @@ function displayWeather(info){
     `
 }
 
-weatherData("navsari")
+weatherData("USA")
